@@ -8,7 +8,6 @@ phases:
     commands:
         # install npm
         - npm install
-        - npm audit fix --force
        
   build:
     commands:
